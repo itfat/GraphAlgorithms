@@ -1,5 +1,5 @@
 # GraphAlgorithms
-This repository contains graph algorithms and their impelentations in python including;
+This repository contains graph algorithms and their implementations in python including;
 
 1- BFS
 
