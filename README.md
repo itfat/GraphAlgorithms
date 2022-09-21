@@ -5,7 +5,7 @@ This repository contains graph algorithms and their implementations in python in
 
 2- DFS
 
-3- Dijstra
+3- Dijkstra
 
 4- Prims
 
